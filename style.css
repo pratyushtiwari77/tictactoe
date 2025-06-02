@@ -39,7 +39,15 @@ h1{
     height: 500px;
     font-size: 200px;
 }
-button{
+#newgame{
+    height: 50px;
+    width: 100px;
+    background-color:#d4a373;
+    color: white;
+    font-size: 20px;
+    font-weight:bolder;
+}
+#resetbutton{
     height: 50px;
     width: 100px;
     background-color:#d4a373;
